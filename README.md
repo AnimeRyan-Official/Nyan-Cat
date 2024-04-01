@@ -16,7 +16,7 @@ Goals:
 To Do List:
 -----------
 
-- [ ] Fix rainow glitch on various resolutions
+- [x] Fix rainow glitch on various resolutions
 - [x] Add song (with loop)
 - [ ] Improve Performance
 - [x] Anihilate jQuery
