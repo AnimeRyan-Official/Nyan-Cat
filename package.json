@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EeveeTrainer924/nyan-cat"
+    "url": "git+https://github.com/AnimeRyan-Official/nyan-cat"
   },
   "keywords": [
     "nyan-cat",
@@ -17,12 +17,12 @@
     "audio",
     "animation"
   ],
-  "author": "Cristina Sturm (cristurm90@gmail.com)",
+  "author": "Ryan Zhou (zhouryan16@gmail.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cristurm/nyan-cat/issues"
+    "url": "https://github.com/AnimeRyan-Official/Nyan-Cat/issues"
   },
-  "homepage": "https://github.com/cristurm/nyan-cat#readme",
+  "homepage": "https://github.com/AnimeRyan-Official/Nyan-Cat#readme",
   "devDependencies": {
     "less": "^3.12.2"
   }
