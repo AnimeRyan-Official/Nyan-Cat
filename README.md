@@ -1,7 +1,7 @@
 Nyan Cat
 ========
 
-[DEMO HERE](http://cristurm.github.io/nyan-cat/)
+[DEMO HERE](https://animeryan-official.github.io/Nyan-Cat/)
 
 Nyan Cat made with HTML5+CSS3 (and JavaScript :T).
 
