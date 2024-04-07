@@ -1,4 +1,4 @@
-console.log('Nyan!')
+console.log('Nyan Cat!')
 
 function cycleFrames (_nyanCat, _currentFrame) {
 	_nyanCat.classList = []
