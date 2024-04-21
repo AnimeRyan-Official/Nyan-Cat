@@ -1,4 +1,6 @@
 console.log('Nyan Cat!')
+console.log('NYAN CAT MADE BY RYAN ZHOU!')
+console.log('Plz don't copy!')
 
 function cycleFrames (_nyanCat, _currentFrame) {
 	_nyanCat.classList = []
